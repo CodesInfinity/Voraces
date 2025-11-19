@@ -1,0 +1,9 @@
+Practica2AMC$Result
+Practica2AMC$1
+Practica2AMC$UniExhaustive
+Practica2AMC$TSPStrategy
+Practica2AMC$UniPruning
+Practica2AMC
+Practica2AMC$Point
+Practica2AMC$BiExhaustive
+Practica2AMC$BiPruning
